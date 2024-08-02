@@ -1,16 +1,3 @@
-# otis
+# OTIS
 
-A simple UI for OTIS
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+OTIS stands for "Onlinegestütztes Therapie-Informationsverteilung-System" and was a project of the physiotherapy clinic "Physioteam Gündel" to better manage self-exercises for patients and to provide patients with instructions with video. Otis began as a customized Wordpress, but later a smartphone app for iOS and Android was developed with Flutter as a user-friendly frontend. The project was discontinued in 2019 and the code has not been maintained since then. Nevertheless, I would like to make the code of the Flutter App available here in the hope that others may be able to learn from it. 
